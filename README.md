@@ -14,4 +14,5 @@ _For example:@myriagames,@TheSandboxGame,@SeedifyFund,@kava_platform...._
 
 
 I am an ambassador at **Pontem Network** and **Connext.**
-My vision is first of all learn and then teach your community
+
+**My vision is first of all learn and then teach your community**
